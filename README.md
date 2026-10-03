@@ -1,4 +1,4 @@
-# DAX Formulas Practice: Vehicle Sales Dashboard (Power BI)
+# Vehicle Sales Dashboard (Power BI)
 
 A Power BI project for learning DAX and building sales dashboards. It uses a classic cars / vehicle orders dataset.
 
